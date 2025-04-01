@@ -8,7 +8,7 @@
         "knightbot",
         "multi-device"
     ],
-    "repository": "https://github.com/mruniquehacker/Knightbot-MD",
+    "repository": "https://github.com/dasundularaka/Knightbot-MD",
     "stack": "container",
     "env": {
         "SESSION_ID": {
